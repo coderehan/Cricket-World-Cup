@@ -198,5 +198,8 @@ MatchScreen recomposes automatically via StateFlow
 
 ## Screenshots
 
-<img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/0978e9dc-1cfd-4525-bdd8-1226fc2c7c49.jpg" width=30% height=30%> <img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/1214dc2a-2852-425f-b6cf-de1e196d003a.jpg" width=30% height=30%>
-<img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/6f67cdf7-c385-42fa-916d-86cdea9e98f5.jpg" width=30% height=30%> <img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/645585fb-b482-44a5-8a78-18b63594ea93.jpg" width=30% height=30%>  <img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/ad9ea15d-8060-446c-b8e7-65026c437482.jpg" width=30% height=30%> 
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/11c1f266-a4ff-4d3c-9564-18d7e460ccbf" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/7ecd352d-ba28-4fc9-b523-884d7209ba9f" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/8ffb8d68-1bdc-449a-a1a7-9ca08556e81d" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/91323ac3-2d06-44e6-9036-b205282418eb" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/a7fb2bf8-fe7f-415d-8da8-1ae4fd74d724" />
