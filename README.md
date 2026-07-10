@@ -198,8 +198,5 @@ MatchScreen recomposes automatically via StateFlow
 
 ## Screenshots
 
-<img src="screenshots/1.png" width="250" alt="Team Selection Screen" />
-<img src="screenshots/2" width="250" alt="Teams Selected" />
-<img src="screenshots/3" width="250" alt="Match In Progress" />
-<img src="screenshots/4" width="250" alt="Ball Outcome" />
-<img src="screenshots/5" width="250" alt="Match Result" />
+<img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/0978e9dc-1cfd-4525-bdd8-1226fc2c7c49.jpg" width=30% height=30%> <img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/1214dc2a-2852-425f-b6cf-de1e196d003a.jpg" width=30% height=30%>
+<img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/6f67cdf7-c385-42fa-916d-86cdea9e98f5.jpg" width=30% height=30%> <img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/645585fb-b482-44a5-8a78-18b63594ea93.jpg" width=30% height=30%>  <img src="https://github.com/coderehan/Cricket-World-Cup/assets/75351694/ad9ea15d-8060-446c-b8e7-65026c437482.jpg" width=30% height=30%> 
