@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Afghanistan",
+    "flag": "https://flagcdn.com/w320/af.png"
+  },
+  {
+    "name": "Australia",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "https://flagcdn.com/w320/bd.png"
+  },
+  {
+    "name": "England",
+    "flag": "https://flagcdn.com/w320/gb-eng.png"
+  },
+  {
+    "name": "India",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+  {
+    "name": "New Zealand",
+    "flag": "https://flagcdn.com/w320/nz.png"
+  },
+  {
+    "name": "Pakistan",
+    "flag": "https://flagcdn.com/w320/pk.png"
+  },
+  {
+    "name": "South Africa",
+    "flag": "https://flagcdn.com/w320/za.png"
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "https://flagcdn.com/w320/lk.png"
+  },
+  {
+    "name": "West Indies",
+    "flag": "https://flagcdn.com/w320/bb.png"
+  }
+]
