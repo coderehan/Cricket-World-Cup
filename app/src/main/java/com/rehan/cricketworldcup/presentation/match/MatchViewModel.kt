@@ -87,10 +87,6 @@ class MatchViewModel @Inject constructor(
     val uiState: StateFlow<MatchUiState> =
         _uiState.asStateFlow()
 
-    /**
-     * Called whenever user presses
-     * "Play Next Ball".
-     */
     fun playNextBall() {
 
         if (_uiState.value.isMatchOver) return

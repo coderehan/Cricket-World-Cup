@@ -15,13 +15,6 @@ import com.rehan.cricketworldcup.ui.theme.CricketWorldCupTheme
 import com.rehan.cricketworldcup.ui.theme.GreenDark
 import dagger.hilt.android.AndroidEntryPoint
 
-/**
- * Single Activity host for the entire Compose UI.
- *
- * @AndroidEntryPoint allows Hilt to inject dependencies
- * into this Activity and everything created within it
- * (ViewModels via hiltViewModel(), etc.).
- */
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 

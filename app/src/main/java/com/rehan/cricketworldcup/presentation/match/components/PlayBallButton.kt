@@ -11,9 +11,7 @@ import androidx.compose.ui.unit.dp
 
 /**
  * Reusable button used to play the next delivery.
- *
- * The button becomes disabled and its label switches to "Match Over"
- * once the match finishes, matching the reference screenshots.
+ * The button becomes disabled and its label switches to "Match Over" once the match finishes
  */
 @Composable
 fun PlayBallButton(

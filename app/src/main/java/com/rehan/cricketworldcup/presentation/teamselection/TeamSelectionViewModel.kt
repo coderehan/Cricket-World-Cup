@@ -23,9 +23,6 @@ import javax.inject.Inject
  * 3. Handle team selection and deselection.
  * 4. Expose immutable StateFlow to the UI.
  *
- * NOTE:
- * This ViewModel never talks directly to the JSON file.
- * It only communicates with the Repository.
  */
 @HiltViewModel
 class TeamSelectionViewModel @Inject constructor(

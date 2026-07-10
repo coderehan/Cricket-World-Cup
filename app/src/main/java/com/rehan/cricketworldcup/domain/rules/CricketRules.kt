@@ -5,10 +5,8 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 /**
- * Contains all cricket-related rules.
- *
+ * Contains all cricket-related rules
  * Keeping these rules separate from MatchEngine
- * makes them easier to test and maintain.
  */
 @Singleton
 class CricketRules @Inject constructor() {
@@ -16,7 +14,7 @@ class CricketRules @Inject constructor() {
     companion object {
 
         /**
-         * Maximum overs in the assignment.
+         * Maximum overs
          */
         const val MAX_BALLS = 12
 

@@ -15,8 +15,6 @@ import javax.inject.Singleton
  * It delegates:
  * - Random ball generation -> RandomOutcomeGenerator
  * - Cricket rules -> CricketRules
- *
- * It contains NO Android-specific code, making it easy to unit test.
  */
 @Singleton
 class MatchEngine @Inject constructor(

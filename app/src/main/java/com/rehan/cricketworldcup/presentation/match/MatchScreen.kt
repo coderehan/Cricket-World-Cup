@@ -39,8 +39,7 @@ fun MatchScreen(
     val uiState by viewModel.uiState.collectAsStateWithLifecycle()
 
     /**
-     * Innings belonging to the team currently batting
-     * is always shown first, matching the reference screenshots
+     * Innings belonging to the team currently batting is always shown first
      * ("Pakistan (Batting)" on top, "India (Bowling)" below).
      */
     val battingInnings =
@@ -51,10 +50,8 @@ fun MatchScreen(
 
     /**
      * Text shown inside the result panel.
-     *
      * Once the match is over, this switches from the last ball's
-     * outcome to the final result ("India Wins", "Pakistan Wins",
-     * or "Match Tied"), exactly as shown in the reference screenshots.
+     * outcome to the final result ("India Wins", "Pakistan Wins", or "Match Tied")
      */
     val resultPanelText = if (uiState.isMatchOver) {
 

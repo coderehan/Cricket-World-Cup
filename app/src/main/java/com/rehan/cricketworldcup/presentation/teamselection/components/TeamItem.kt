@@ -53,16 +53,7 @@ fun TeamItem(
             AsyncImage(
                 model = team.flag,
                 contentDescription = team.name,
-                modifier = Modifier.size(60.dp),
-                onError = { errorState ->
-                    android.util.Log.e(
-                        "FlagLoad",
-                        "Failed to load flag for ${team.name}: ${errorState.result.throwable}"
-                    )
-                },
-                onSuccess = {
-                    android.util.Log.d("FlagLoad", "Loaded flag for ${team.name}")
-                }
+                modifier = Modifier.size(60.dp)
             )
 
             Text(

@@ -64,13 +64,6 @@ fun CricketNavGraph(
             MatchScreen(
                 viewModel = viewModel,
                 onMatchOver = {
-
-                    /**
-                     * Pop back to Team Selection and remove the
-                     * finished match route from the back stack, so
-                     * pressing system back from Team Selection
-                     * doesn't return to a completed match.
-                     */
                     navController.popBackStack(
                         route = Screen.TeamSelection.route,
                         inclusive = false
