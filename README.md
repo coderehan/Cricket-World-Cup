@@ -198,6 +198,8 @@ MatchScreen recomposes automatically via StateFlow
 
 ## Screenshots
 
-
-
-**Match Center** — Shows both teams' live scores (batting team on top), the outcome of the most recent ball in a central result panel, and a "Play Next Ball" button. Once the match ends, the panel displays the result (e.g. "India Wins") and the button becomes "Match Over," which navigates back to Team Selection when tapped.
+<img src="screenshots/1.png" width="250" alt="Team Selection Screen" />
+<img src="screenshots/2" width="250" alt="Teams Selected" />
+<img src="screenshots/3" width="250" alt="Match In Progress" />
+<img src="screenshots/4" width="250" alt="Ball Outcome" />
+<img src="screenshots/5" width="250" alt="Match Result" />
