@@ -198,8 +198,8 @@ MatchScreen recomposes automatically via StateFlow
 
 ## Screenshots
 
-<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/11c1f266-a4ff-4d3c-9564-18d7e460ccbf" />
-<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/7ecd352d-ba28-4fc9-b523-884d7209ba9f" />
 <img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/8ffb8d68-1bdc-449a-a1a7-9ca08556e81d" />
 <img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/91323ac3-2d06-44e6-9036-b205282418eb" />
 <img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/a7fb2bf8-fe7f-415d-8da8-1ae4fd74d724" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/11c1f266-a4ff-4d3c-9564-18d7e460ccbf" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/7ecd352d-ba28-4fc9-b523-884d7209ba9f" />
